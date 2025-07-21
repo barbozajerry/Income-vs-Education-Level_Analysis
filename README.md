@@ -1,4 +1,4 @@
-"""# 📊 Income vs Education Level Analysis
+# 📊 Income vs Education Level Analysis
 **CSE 578 – Data Visualization Project**  
 **Author**: Jerry Barboza
 
