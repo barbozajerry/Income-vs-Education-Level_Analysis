@@ -1,16 +1,16 @@
-# 📊 Income vs Education Level Analysis
+# Income vs Education Level Analysis
 **CSE 578 – Data Visualization Project**  
 **Author**: Jerry Barboza
 
 ---
 
-## 📝 Overview
+## Overview
 
 This project explores how **education level, race, occupation, and relationship status** relate to income levels using the [UCI Adult Income Dataset](https://archive.ics.uci.edu/ml/datasets/adult). Through visualizations and exploratory data analysis, we uncover which factors are most associated with earning over $50K per year.
 
 ---
 
-## 📁 Dataset
+## Dataset
 
 - **Source**: [UCI Adult Data Set](https://archive.ics.uci.edu/ml/datasets/adult)
 - **Records**: 32,561 entries (after cleaning)
@@ -26,7 +26,7 @@ This project explores how **education level, race, occupation, and relationship 
 
 ---
 
-## 🎯 Goals
+## Goals
 
 - Understand how **education** affects the probability of earning >$50K.
 - Compare **race** and **occupation** distributions across income levels.
